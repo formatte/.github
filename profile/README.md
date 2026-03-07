@@ -8,7 +8,7 @@ We are a **splinter org**. This organization is not affiliated with [dprint](htt
 
 **Website:** [formatte.dev](https://formatte.dev)
 
-The “d” in formatte.dev is deliberate: **formatte.d** — D for the language, .dev for the home.
+The “d” in formatte.dev is deliberate: **formatte.d** - D for the language, .dev for the home.
 
 ---
 
